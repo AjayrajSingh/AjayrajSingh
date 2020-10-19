@@ -1,5 +1,4 @@
 # Hi there 👋 , this is Ajayraj Singh
-### Founder and CEO at Shining Coders
 ###  
 ![alt text](https://i.redd.it/6ecxc45ll0u51.png)
 
