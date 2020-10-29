@@ -7,13 +7,13 @@
 
 ## Here's my Github stats
 
-[![Ajayraj's github stats](https://github-readme-stats.vercel.app/api?username=AjayrajSingh)](https://github.com/AjayrajSingh/github-readme-stats)
+[![Ajayraj's github stats](https://github-readme-stats.vercel.app/api?username=AjayrajSingh&theme=solarized-light&show_icons=true)](https://github.com/AjayrajSingh/github-readme-stats)
 
 ###
 
 ## And languages I used the most
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayrajSingh)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayrajSingh&theme=solarized-light&show_icons=true)
 
 ###
 ###
