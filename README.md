@@ -13,7 +13,7 @@
 
 ## And languages I used the most
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayrajSingh&theme=solarized-light&show_icons=true&langs_count=8)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayrajSingh&theme=solarized-light&show_icons=true&langs_count=4)
 
 ###
 ###
