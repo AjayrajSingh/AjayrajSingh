@@ -16,7 +16,6 @@
 ![1](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayrajSingh&theme=solarized-light&show_icons=true&langs_count=8&layout=compact)
 
 ###
-###
 - 🔭 I’m currently working on Ajix(Compiler Design), Adrix(GUI framework), Glint(OS Development), CU safe(Flutter App) and SC's website 💻.
 - 🌱 I’m currently learning Tensorflow, Golang and React native.
 - 👯 I’m looking to collaborate on any Flutter project, that could somehow help the humanity 🌍.
