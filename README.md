@@ -22,4 +22,4 @@
 - 🤔 I’m looking for help with Tensorflow and Web Development 😅.
 - 💬 Ask me about anything 🙄.
 - 📫 How to reach me: ajayrajsinghab@gmail.com ✉.
-- ⚡ Fun fact: I sing, I write poems, songs and quotes, I illustrate and 3d model, I started with Game Developement, I design UI and UX and I (❤) to collaborate.
+- ⚡ Fun fact: I sing, I write poems, songs and quotes, I illustrate and 3d model, I started with Game Developement, I design UI and UX and I ❤ to collaborate.
