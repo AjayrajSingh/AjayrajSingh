@@ -13,7 +13,7 @@
 
 ## And languages I used the most
 
-![1](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayrajSingh&theme=solarized-light&show_icons=true&langs_count=8&layout=compact)
+![1](https://github-readme-stats.vercel.app/api/top-langs/?username=AjayrajSingh&theme=solarized-light&show_icons=true&langs_count=6&layout=compact)
 
 ###
 - 🔭 I’m currently working on Ajix(Compiler Design), Adrix(GUI framework), Glint(OS Development), CU safe(Flutter App) and SC's website.
