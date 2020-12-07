@@ -7,7 +7,7 @@
 
 ## Here's my Github stats 📊
 
-[![Ajayraj's github stats](https://github-readme-stats.vercel.app/api?username=AjayrajSingh&theme=solarized-light&show_icons=true)](https://github.com/AjayrajSingh/github-readme-stats)
+[![Ajayraj's github stats](https://github-readme-stats.vercel.app/api?username=AjayrajSingh&theme=solarized-light)](https://github.com/AjayrajSingh/github-readme-stats)
 
 ###
 
