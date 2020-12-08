@@ -1,7 +1,6 @@
 # Hi there 👋 , Ajayraj Singh here
 ###  
 ![alt text](https://i.redd.it/6ecxc45ll0u51.png)
-<!--<img src="https://i.redd.it/6ecxc45ll0u51.png" alt="We Code, that Innovates" height="150">-->
 
 ###
 
