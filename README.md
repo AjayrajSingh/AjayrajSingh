@@ -20,5 +20,5 @@
 - 👯 I’m looking to collaborate on any Flutter or React project, that could somehow help the humanity 🌍.
 - 🤔 I’m looking for help with Tensorflow and Web Development 😅.
 - 💬 Ask me about anything 🙄😳.
-- 📫 How to reach me: ajayrajsinghab@gmail.com ✉.
+- 📫 How to reach me: ajayistic@shiningcoders.com ✉.
 - ⚡ Fun fact: I sing, I write poems, songs and quotes, I illustrate and 3d model, I started with Game Developement, I design UI and UX and I ❤ to collaborate.
